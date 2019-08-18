@@ -1,0 +1,15 @@
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\bin\Debug\Weather Data.exe.config
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\bin\Debug\Weather Data.exe
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\bin\Debug\Weather Data.pdb
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\Soccer Data.csprojAssemblyReference.cache
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\MainWindow.g.cs
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\App.g.cs
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\Weather Data_MarkupCompile.cache
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\Weather Data_MarkupCompile.lref
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\MainWindow.baml
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\Weather Data.g.resources
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\Weather_Data.Properties.Resources.resources
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\Soccer Data.csproj.GenerateResource.cache
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\Soccer Data.csproj.CoreCompileInputs.cache
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\Weather Data.exe
+C:\Users\vardh\source\repos\Soccer Data\Weather Data\obj\Debug\Weather Data.pdb
